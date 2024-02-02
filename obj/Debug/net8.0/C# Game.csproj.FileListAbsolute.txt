@@ -1,0 +1,17 @@
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.AssemblyInfoInputs.cache
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.AssemblyInfo.cs
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.csproj.CoreCompileInputs.cache
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\bin\Debug\net8.0\C# Game.exe
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\bin\Debug\net8.0\C# Game.deps.json
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\bin\Debug\net8.0\C# Game.runtimeconfig.json
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\bin\Debug\net8.0\C# Game.dll
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\bin\Debug\net8.0\C# Game.pdb
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.dll
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\refint\C# Game.dll
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.pdb
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.genruntimeconfig.cache
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\ref\C# Game.dll
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.csproj.AssemblyReference.cache
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\bin\Debug\net8.0\RestSharp.dll
+C:\Users\joaol\OneDrive\Documentos\GitHub\C# Game\obj\Debug\net8.0\C# Game.csproj.CopyComplete

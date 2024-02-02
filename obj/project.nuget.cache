@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+QLBbaWgvY6vggSeW5WpVyfbQDYi8kIqk1mSii7KQUxIv4d45r89ZGlJy8u1oIck6OotkiVf+JVlEWk37aOOg==",
+  "success": true,
+  "projectFilePath": "C:\\C#Game\\C# Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaol\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\joaol\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaol\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
